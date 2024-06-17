@@ -1,17 +1,16 @@
-.centralizar{
-  text-align: center;
-}
 
-
-.titulo-pincipal{
+.titulo-principal{
   padding-left: 30px;
 }
 
 .principal{
-  background-color: #cccccc;
+  background-color: #CCCCCC;
   padding: 30px;
 }
 
+.titulo-centralizado{
+  text-align: center;
+}
 
 p {
   text-align: center;
@@ -29,3 +28,17 @@ em strong{
   width: 100%;
 }
 
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+
+#beneficios {
+  width: 50%;
+}
+
+.item {
+  font-style: italic;
+}
